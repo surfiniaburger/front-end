@@ -15,7 +15,7 @@ function Main() {
           <br />
           <button>Reserve a table</button>
         </article>
-        <img className="item1" src="icons_assets/restauranfood.jpg" alt="Sample image" />
+        <img className="item1" src="icons_assets/restauranfood.jpg" alt="restaurantfood" />
       </section>
 
       <section>
@@ -85,6 +85,7 @@ function Main() {
           </div>
           <div className="name">John Doe</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
+          <img src="john_doe_profile.jpg" alt="John Doe" className="reviewer-image" />
         </div>
 
         {/* Repeat similar structure for other testimonials */}
@@ -95,6 +96,7 @@ function Main() {
           </div>
           <div className="name">John Doe</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
+          <img src="john_doe_profile.jpg" alt="John Doe" className="reviewer-image" />
         </div>
 
         <div className="card">
@@ -103,6 +105,7 @@ function Main() {
           </div>
           <div className="name">John Doe</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
+          <img src="john_doe_profile.jpg" alt="John Doe" className="reviewer-image" />
         </div>
 
         <div className="card">
@@ -111,6 +114,7 @@ function Main() {
           </div>
           <div className="name">John Doe</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
+          <img src="john_doe_profile.jpg" alt="John Doe" className="reviewer-image" />
         </div>
       </section>
 
