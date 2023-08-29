@@ -81,40 +81,40 @@ function Main() {
       <section>
         <div className="card">
           <div className="rating">
-            <img src="rating.png" alt="Rating" />
+            <img src="icons_assets/stars.png" alt="Rating" />
           </div>
-          <div className="name">John Doe</div>
+          <div className="name">Jim Yu</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
-          <img src="john_doe_profile.jpg" alt="John Doe" className="reviewer-image" />
+          <img src="icons_assets/baby.jpg" alt="Jim Yu" className="reviewer-image" />
         </div>
 
         {/* Repeat similar structure for other testimonials */}
 
         <div className="card">
           <div className="rating">
-            <img src="rating.png" alt="Rating" />
+            <img src="icons_assets/stars.png" alt="Rating" />
           </div>
-          <div className="name">John Doe</div>
+          <div className="name">John B</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
-          <img src="john_doe_profile.jpg" alt="John Doe" className="reviewer-image" />
+          <img src="icons_assets/guy.jpg" alt="John B" className="reviewer-image" />
         </div>
 
         <div className="card">
           <div className="rating">
-            <img src="rating.png" alt="Rating" />
+            <img src="icons_assets/stars.png" alt="Rating" />
           </div>
-          <div className="name">John Doe</div>
+          <div className="name">Papa</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
-          <img src="john_doe_profile.jpg" alt="John Doe" className="reviewer-image" />
+          <img src="icons_assets/they.jpg" alt="Papa" className="reviewer-image" />
         </div>
 
         <div className="card">
           <div className="rating">
-            <img src="rating.png" alt="Rating" />
+            <img src="icons_assets/stars.png" alt="Rating" />
           </div>
-          <div className="name">John Doe</div>
+          <div className="name">Sarah</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
-          <img src="john_doe_profile.jpg" alt="John Doe" className="reviewer-image" />
+          <img src="icons_assets/she.jpg" alt="Sarah" className="reviewer-image" />
         </div>
       </section>
 
