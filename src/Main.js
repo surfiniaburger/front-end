@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Main() {
   return (
@@ -114,7 +114,7 @@ function Main() {
           </div>
           <div className="name">Sarah</div>
           <div className="review">Excellent product. I'm very satisfied with my purchase.</div>
-          <img src="icons_assets/she.jpg" alt="Sarah" className="reviewer-image" />
+          <img src="icons_assets/she.jpg" alt="" className="reviewer-image" />
         </div>
       </section>
 
